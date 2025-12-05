@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"PS101, ps102",SW_MSK12C02-HB,2,~,
+"R102, r101",WE_430182050816,2,~,
+"S101, S102, S103, S104, S105, S106, S107, S108, S109, S110, S111, S112, S113, S114, S115, S116, S117, S118",Kailh_socket_PG1350_reversible,18,Keyswitch,
+U101,Nice_Nano_V2,1,Nice_Nano_V2,
