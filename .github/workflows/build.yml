@@ -4,7 +4,7 @@ jobs:
   build:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@v0.3
     with:
-      # Path to the build.yaml relative to the repository root
+      # Relative path from the root of your repo to the build.yaml
       build_matrix_path: "zmk-software/build.yaml"
-      # Path to your config folder relative to the repository root
+      # Relative path from the root of your repo to the config folder
       config_path: "zmk-software/config"
