@@ -23,4 +23,4 @@ include:
     directory: zmk-software/config
   - board: nice_nano_v2
     shield: first36keys_right
-    directory: zmk-software/configinclude:
+    directory: zmk-software/config
